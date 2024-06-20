@@ -12,7 +12,7 @@ OUTPUTS
 REFERENCES
 
 
-INTRODUCTION
+INTRODUCTION: 
 Cutting-edge algorithm: Intelli harnesses advanced algorithms to predict accurate car prices based on market trends and historical data.
 Comprehensive database: Our platform boasts an extensive database of car models, makes, and years, ensuring precise predictions for a wide range of vehicles.
 User-friendly interface: Navigate with ease through Intelli's intuitive interface, making car price predictions accessible to everyone.
@@ -25,16 +25,16 @@ Trusted accuracy: Rely on Intelli's proven track record of accuracy, backed by s
 Empowering consumers: Empower yourself with the knowledge and insights needed to negotiate confidently and secure the best deal on your next car purchase with Intelli.
 
 
-PROBLEM STATEMENT
+PROBLEM STATEMENT: 
 The problem that led to the creation of the car price predictor website “Intelli" was the lack of easily accessible and accurate information for consumers regarding the fair market value of cars. This often resulted in uncertainty and frustration during the car buying process, as buyers struggled to determine whether they were getting a fair deal. Intelli aims to solve this problem by providing users with reliable price predictions based on market trends and historical data.
 
-KEY FEATURES
+KEY FEATURES: 
 In This Website , User Can Monitor Expense For Their Respective  Stuff And Will Help Them In Future Plannings For Upskilling And Move Forward Towards The Final Decision.
 User Friendly Interface
 General Tests Of Their Respective Field Which Will Be Used For Analysis.
 Benefitial For The Users.
 
-TECHNOLOGY USED
+TECHNOLOGY USED: 
 HTML: For creating the structure and layout of the web pages.
 CSS: For styling and enhancing the visual presentation of the website.
 JavaScript: For implementing interactive features and dynamic content.
@@ -47,7 +47,7 @@ Matplotlib: A comprehensive plotting library for Python, utilized for generating
 scikit-learn: A machine learning library in Python, providing tools for data preprocessing, modeling, and evaluation, essential for building and training the car price prediction model.
 
 
-ARCHITECTURE
+ARCHITECTURE: 
 User Input: Display a web form for users to input car-related information (make, model, year, mileage, condition, etc.).
 Data Validation: Validate user input data in the backend to ensure it meets the application's requirements and constraints.
 Data Preprocessing: Clean, normalize, and preprocess user input data in the backend for machine learning model consumption.
@@ -57,10 +57,10 @@ Display Result: Display the predicted car price to the user in the web applicati
 End: End the flowchart with the application close or user logout.
 
 
-FLOWCHART
+FLOWCHART: 
 ![image](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/cb462059-afbd-4af4-bca5-e2bb13c1a518)
 
-OUTPUTS
+OUTPUTS: 
 
 ![image](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/d585c0eb-6fa4-4d1a-b8c5-91868cb5cb61)
 
@@ -79,7 +79,7 @@ OUTPUTS
 ![Screenshot_20240513_123939](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/5ef9cf61-aa72-4669-958b-8af0ef4af5da)
 
 
-REFERENCES
+REFERENCES: 
 1. https://www.w3schools.com/python/matplotlib_intro.asp 
 2. https://www.geeksforgeeks.org/introduction-to-seaborn-  python/ 
 3. https://www.youtube.com/watch?v=H2wOlriHGmM 
