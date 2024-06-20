@@ -1,4 +1,4 @@
-![image](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/c8a8633b-51e4-4a62-b5e3-5e17f1d949cb)Intelli-Car Price Predictor
+Intelli-Car Price Predictor
 
 CONTENTS
 
@@ -47,4 +47,30 @@ Matplotlib: A comprehensive plotting library for Python, utilized for generating
 scikit-learn: A machine learning library in Python, providing tools for data preprocessing, modeling, and evaluation, essential for building and training the car price prediction model.
 
 
+ARCHITECTURE
+User Input: Display a web form for users to input car-related information (make, model, year, mileage, condition, etc.).
+Data Validation: Validate user input data in the backend to ensure it meets the application's requirements and constraints.
+Data Preprocessing: Clean, normalize, and preprocess user input data in the backend for machine learning model consumption.
+Price Prediction: Use a trained machine learning model in the backend to predict the car price based on the user's input.
+Communicate Result: Send the predicted car price from the backend to the frontend using a communication channel (e.g., AJAX or fetch API).
+Display Result: Display the predicted car price to the user in the web application.
+End: End the flowchart with the application close or user logout.
+
+
+FLOWCHART
+![image](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/cb462059-afbd-4af4-bca5-e2bb13c1a518)
+
+OUTPUTS
+
+![image](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/d585c0eb-6fa4-4d1a-b8c5-91868cb5cb61)
+
+![Screenshot_20240620_071800](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/c3ade419-1b7d-4644-aec9-eacd147b7145)
+
+![image](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/34b512ef-f962-4339-94ef-7da192c03b93)
+
+![image](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/b120402f-cc7f-468c-9ef8-097dbd5fc2fd)
+
+![image](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/d8b9c03f-56bf-44f3-82c5-3df1251805ba)
+
+![image](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/7a633312-4b9f-4add-aceb-79f2bdcba8ea)
 
