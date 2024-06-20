@@ -1,0 +1,109 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Utility classes */
+/* Background color utility class */
+.bg-dark {
+    background-color: #75767B;
+}
+
+/* Margin utility classes */
+.mt-50 {
+    margin-top: 50px;
+}
+
+/* Padding utility classes */
+.pt-20 {
+    padding-top: 20px;
+}
+
+/* Border utility classes */
+.border-rounded {
+    border-radius: 5px;
+}
+
+/* Text color utility classes */
+.text-white {
+    color: #ffffff;
+}
+
+.text-black {
+    color: #000;
+}
+
+/* Font size utility classes */
+.font-large {
+    font-size: 1.5rem;
+}
+
+/* Line height utility classes */
+.line-height-normal {
+    line-height: normal;
+}
+
+/* Hover effect */
+.hover-scale {
+    transition: transform 0.3s ease-in-out;
+}
+
+.hover-scale:hover {
+    transform: scale(1.1);
+}
+
+/* Card styling */
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    background-color: #007bff;
+    color: hwb(137 16% 35%);
+    border-radius: 10px 10px 0 0;
+}
+
+.card-body {
+    padding: 20px;
+  
+}
+
+/* Form styling */
+.form-control {
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Prediction styling */
+#prediction {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #28a745; /* Green color */
+}
+
+/* Select styling */
+.selectpicker {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+}
+
+/* Center align elements */
+.text-center {
+    text-align: center;
+}
