@@ -74,3 +74,17 @@ OUTPUTS
 
 ![image](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/7a633312-4b9f-4add-aceb-79f2bdcba8ea)
 
+![Screenshot_20240513_123912](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/8ee4cb32-a28c-4050-83c1-30433ab32c04)
+
+![Screenshot_20240513_123939](https://github.com/MukuSick2/Intelli--Car-price-Predictor-/assets/131860691/5ef9cf61-aa72-4669-958b-8af0ef4af5da)
+
+
+REFERENCES
+1. https://www.w3schools.com/python/matplotlib_intro.asp 
+2. https://www.geeksforgeeks.org/introduction-to-seaborn-  python/ 
+3. https://www.youtube.com/watch?v=H2wOlriHGmM 
+4. https://www.w3schools.com/python/numpy/numpy_intro.asp 
+5. https://www.kaggle.com/ 
+6. https://www.wampserver.com/en/ 
+7.https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://m.youtube.com/watch%3Fv%3DmqhxxeeTbu0&ved=2ahUKEwihj4XVmJOCAxX_UGwGHfK0Bz8Qo7QBegQICxAG&usg=AOvVaw1ZbojK6q8DFVWsMy2tM3PB 
+8. https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH 
